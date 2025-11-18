@@ -1,5 +1,6 @@
 ## Hi there 👋
 ![](https://raw.githubusercontent.com/CGandGameEngineLearner/Repo-Activity-Recorder/main/generated/overview.svg)
+![](https://raw.githubusercontent.com/CGandGameEngineLearner/Repo-Activity-Recorder/main/generated/languages.svg)
 <!--
 **CGandGameEngineLearner/CGandGameEngineLearner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
